@@ -14,6 +14,10 @@ _**Note**_: These routines are designed for the latest ATtiny 0-series and 1-ser
 
 ## Installation:
 ### Arduino IDE's Library Manager:
+<p align="center">
+   <img width="920" src="https://raw.githubusercontent.com/dattasaurabh82/TinyMegaI2C/main/assets/Jul-22-2021 13-14-53.gif">
+</p>
+
 ### arduino-cli's Library Manager:
 <p align="center">
    <img width="920" src="https://raw.githubusercontent.com/dattasaurabh82/TinyMegaI2C/main/assets/installTinyMegai2c.svg">
