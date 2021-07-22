@@ -12,6 +12,13 @@ The main difference between these routines and the standard Arduino Tiny Wire li
 
 _**Note**_: These routines are designed for the latest ATtiny 0-series and 1-series processors, and the 0-series ATmega chips.
 
+## Installation:
+### Arduino IDE's Library Manager:
+### arduino-cli's Library Manager:
+<p align="center">
+   <img width="920" src="https://raw.githubusercontent.com/dattasaurabh82/TinyMegaI2C/main/assets/installTinyMegai2c.svg">
+</p>
+
 ## Introduction
 
 Naming of these routines as `TinyMegaI2C` was done to distinguish them from the existing Arduino Wire libraries, such as the one included in Spence Konde's megaTinyCore. These routines don't follow the Arduino Wire library naming conventions.
