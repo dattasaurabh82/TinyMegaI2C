@@ -178,3 +178,6 @@ int mins = TinyMegaI2C.read();
 int hrs = TinyMegaI2C.read();
 TinyMegaI2C.stop();
 ````
+
+## License:
+MIT [LICENSE.md](https://github.com/dattasaurabh82/TinyMegaI2C/blob/main/LICENSE.md)
