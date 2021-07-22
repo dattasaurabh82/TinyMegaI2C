@@ -3,7 +3,7 @@
 Inspiration: https://github.com/technoblogy/tiny-i2c
 
 ## Why? 
-To have it in Arduino's `Library Manager`
+For easy installtion through either Library Manager of the Arduino IDE or arduino-cli. 
 
 ## Description
 **TinyMegaI2C** is a set of minimal I2C routines for the new 0-series and 1-series ATtiny and ATmega microcontrollers. They allow any of these processors to act as an I2C Master and connect to I2C peripherals. For more information see 
