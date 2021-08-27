@@ -1,9 +1,12 @@
 # TinyMegaI2C Library
 
-Inspiration: https://github.com/technoblogy/tiny-i2c
+Inspiration: https://github.com/technoblogy/tiny-i2c [ Almost copy_paste :) ]
+
+Credits: [Dr. Azzy](https://github.com/SpenceKonde) and [technoblogy](https://github.com/technoblogy)
+
 
 ## Why? 
-For easy installtion through either Library Manager of the Arduino IDE or arduino-cli. 
+For easy installtion through either Library Manager of the Arduino IDE or arduino-cli, needed for my [RV8803-Tiny](https://github.com/dattasaurabh82/RV8803Tiny) Arduino Library that I wanted to make available in Arduino's Library Repository and so that the _Linter_ there doesn't complain about the dependendant library. 
 
 ## Description
 **TinyMegaI2C** is a set of minimal I2C routines for the new 0-series and 1-series ATtiny and ATmega microcontrollers. They allow any of these processors to act as an I2C Master and connect to I2C peripherals. For more information see 
